@@ -1,0 +1,11 @@
+Entites
+- Customers/Buyers
+-Sellers
+-Products/Services
+-Managers/---- Authentication DB
+-
+Relationships
+-Transactions(Associative) [Seller, Buyer, Product, Date, Status]
+-Product and Seller - a product must have a seller, but a seller can sometimes have no products... Mandatory side becomes foreign key 
+
+
